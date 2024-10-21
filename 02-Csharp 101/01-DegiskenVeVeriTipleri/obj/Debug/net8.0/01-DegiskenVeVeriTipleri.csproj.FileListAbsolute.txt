@@ -1,0 +1,15 @@
+D:\Users\la\Documents\GitHub\PatikaDev.Repo\PatikaDev.Repo\02-Csharp 101\01-DegiskenVeVeriTipleri\bin\Debug\net8.0\01-DegiskenVeVeriTipleri.exe
+D:\Users\la\Documents\GitHub\PatikaDev.Repo\PatikaDev.Repo\02-Csharp 101\01-DegiskenVeVeriTipleri\bin\Debug\net8.0\01-DegiskenVeVeriTipleri.deps.json
+D:\Users\la\Documents\GitHub\PatikaDev.Repo\PatikaDev.Repo\02-Csharp 101\01-DegiskenVeVeriTipleri\bin\Debug\net8.0\01-DegiskenVeVeriTipleri.runtimeconfig.json
+D:\Users\la\Documents\GitHub\PatikaDev.Repo\PatikaDev.Repo\02-Csharp 101\01-DegiskenVeVeriTipleri\bin\Debug\net8.0\01-DegiskenVeVeriTipleri.dll
+D:\Users\la\Documents\GitHub\PatikaDev.Repo\PatikaDev.Repo\02-Csharp 101\01-DegiskenVeVeriTipleri\bin\Debug\net8.0\01-DegiskenVeVeriTipleri.pdb
+D:\Users\la\Documents\GitHub\PatikaDev.Repo\PatikaDev.Repo\02-Csharp 101\01-DegiskenVeVeriTipleri\obj\Debug\net8.0\01-DegiskenVeVeriTipleri.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\la\Documents\GitHub\PatikaDev.Repo\PatikaDev.Repo\02-Csharp 101\01-DegiskenVeVeriTipleri\obj\Debug\net8.0\01-DegiskenVeVeriTipleri.AssemblyInfoInputs.cache
+D:\Users\la\Documents\GitHub\PatikaDev.Repo\PatikaDev.Repo\02-Csharp 101\01-DegiskenVeVeriTipleri\obj\Debug\net8.0\01-DegiskenVeVeriTipleri.AssemblyInfo.cs
+D:\Users\la\Documents\GitHub\PatikaDev.Repo\PatikaDev.Repo\02-Csharp 101\01-DegiskenVeVeriTipleri\obj\Debug\net8.0\01-DegiskenVeVeriTipleri.csproj.CoreCompileInputs.cache
+D:\Users\la\Documents\GitHub\PatikaDev.Repo\PatikaDev.Repo\02-Csharp 101\01-DegiskenVeVeriTipleri\obj\Debug\net8.0\01-DegiskenVeVeriTipleri.sourcelink.json
+D:\Users\la\Documents\GitHub\PatikaDev.Repo\PatikaDev.Repo\02-Csharp 101\01-DegiskenVeVeriTipleri\obj\Debug\net8.0\01-DegiskenVeVeriTipleri.dll
+D:\Users\la\Documents\GitHub\PatikaDev.Repo\PatikaDev.Repo\02-Csharp 101\01-DegiskenVeVeriTipleri\obj\Debug\net8.0\refint\01-DegiskenVeVeriTipleri.dll
+D:\Users\la\Documents\GitHub\PatikaDev.Repo\PatikaDev.Repo\02-Csharp 101\01-DegiskenVeVeriTipleri\obj\Debug\net8.0\01-DegiskenVeVeriTipleri.pdb
+D:\Users\la\Documents\GitHub\PatikaDev.Repo\PatikaDev.Repo\02-Csharp 101\01-DegiskenVeVeriTipleri\obj\Debug\net8.0\01-DegiskenVeVeriTipleri.genruntimeconfig.cache
+D:\Users\la\Documents\GitHub\PatikaDev.Repo\PatikaDev.Repo\02-Csharp 101\01-DegiskenVeVeriTipleri\obj\Debug\net8.0\ref\01-DegiskenVeVeriTipleri.dll

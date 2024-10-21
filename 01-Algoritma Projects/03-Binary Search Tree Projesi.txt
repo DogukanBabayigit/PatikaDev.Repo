@@ -1,0 +1,32 @@
+Proje 3
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
+
+
+--------------------------------------------------------------------------------
+
+
+İlk Elemanın Kök Olarak Seçilmesi:
+
+İlk eleman olan 7, ağacın kökü olarak seçilir.
+Diğer Elemanların Eklemesi:
+
+5: 5, 7'den küçük olduğu için 7'nin sol alt düğümü olur.
+1: 1, 5'ten küçük olduğu için 5'in sol alt düğümü olur.
+8: 8, 7'den büyük olduğu için 7'nin sağ alt düğümü olur.
+3: 3, 5'ten küçük olduğu için 5'in sol alt düğümü olur. Ancak, 1'den büyük olduğu için 1'in sağ alt düğümü olur.
+6: 6, 5'ten büyük olduğu için 5'in sağ alt düğümü olur. Ancak, 8'den küçük olduğu için 8'in sol alt düğümü olur.
+0: 0, 1'den küçük olduğu için 1'in sol alt düğümü olur.
+9: 9, 7'den büyük olduğu için 7'nin sağ alt düğümü olur. Ancak, 8'den büyük olduğu için 8'in sağ alt düğümü olur.
+4: 4, 5'ten küçük olduğu için 5'in sol alt düğümü olur. Ancak, 3'ten büyük olduğu için 3'ün sağ alt düğümü olur.
+2: 2, 1'den büyük olduğu için 1'in sağ alt düğümü olur. Ancak, 3'ten küçük olduğu için 3'ün sol alt düğümü olur.
+
+
+     7
+    / \
+   5   8
+  / \   \
+ 1   6   9
+/ \ / \
+0 3 4 2
